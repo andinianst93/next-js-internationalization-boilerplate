@@ -1,0 +1,5 @@
+{
+    "header":"Welcome to my homepage",
+    "subheader":"Have a great day, {{username}}!",
+    "counter":"counter"
+}
